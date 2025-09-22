@@ -3,7 +3,7 @@
 #### 🖥️ Website Media Downloader
 
 A powerful Python script that **downloads images and videos** from a given website URL.  
-Handles regular media URLs, lazy-loaded images, and embedded base64 images.
+Handles regular media URLs, lazy-loaded images, and embedded base64 images. Updated to use multiple threads
 
 ## 🔥 Features
 - Downloads:
