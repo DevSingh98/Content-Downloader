@@ -76,4 +76,3 @@ Handles regular media URLs, lazy-loaded images, and embedded base64 images. Upda
 - Add support for additional file types
 
 
-
